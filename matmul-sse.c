@@ -81,7 +81,7 @@ int main(int argc, char** argv)
     }
     
     ct=(N* N) / ((te - ts) * 1e6);
-	  printf( %f\n", ct);
+    printf( %f\n", ct);
     
     free(arra);
     free(arrb);
